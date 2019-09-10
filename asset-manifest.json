@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simbiose/static/css/main.a0a38f34.chunk.css",
+    "main.js": "/simbiose/static/js/main.8a2bbb19.chunk.js",
+    "main.js.map": "/simbiose/static/js/main.8a2bbb19.chunk.js.map",
+    "runtime~main.js": "/simbiose/static/js/runtime~main.276b4d1d.js",
+    "runtime~main.js.map": "/simbiose/static/js/runtime~main.276b4d1d.js.map",
+    "static/js/2.9415929d.chunk.js": "/simbiose/static/js/2.9415929d.chunk.js",
+    "static/js/2.9415929d.chunk.js.map": "/simbiose/static/js/2.9415929d.chunk.js.map",
+    "index.html": "/simbiose/index.html",
+    "precache-manifest.561a66365772df55c4930f5e9f923ccd.js": "/simbiose/precache-manifest.561a66365772df55c4930f5e9f923ccd.js",
+    "service-worker.js": "/simbiose/service-worker.js",
+    "static/css/main.a0a38f34.chunk.css.map": "/simbiose/static/css/main.a0a38f34.chunk.css.map"
+  }
+}
