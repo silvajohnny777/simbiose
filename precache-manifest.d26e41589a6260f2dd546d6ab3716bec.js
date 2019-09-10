@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9db778dc0334711bfce0f81302226452",
+    "revision": "23f949377fdbe4b69504021bfe1ab18b",
     "url": "/simbiose/index.html"
   },
   {
-    "revision": "9ffbf90135785e840a86",
+    "revision": "1b39d2eebdac4eed8bc7",
     "url": "/simbiose/static/css/main.4bc31260.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simbiose/static/js/2.9415929d.chunk.js"
   },
   {
-    "revision": "9ffbf90135785e840a86",
-    "url": "/simbiose/static/js/main.654372f4.chunk.js"
+    "revision": "1b39d2eebdac4eed8bc7",
+    "url": "/simbiose/static/js/main.334d3cc1.chunk.js"
   },
   {
     "revision": "0a4c277915b664f237fc",
