@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/simbiose/static/css/main.4877072e.chunk.css",
-    "main.js": "/simbiose/static/js/main.654372f4.chunk.js",
-    "main.js.map": "/simbiose/static/js/main.654372f4.chunk.js.map",
+    "main.css": "/simbiose/static/css/main.59f551e7.chunk.css",
+    "main.js": "/simbiose/static/js/main.da418865.chunk.js",
+    "main.js.map": "/simbiose/static/js/main.da418865.chunk.js.map",
     "runtime~main.js": "/simbiose/static/js/runtime~main.276b4d1d.js",
     "runtime~main.js.map": "/simbiose/static/js/runtime~main.276b4d1d.js.map",
     "static/js/2.9415929d.chunk.js": "/simbiose/static/js/2.9415929d.chunk.js",
     "static/js/2.9415929d.chunk.js.map": "/simbiose/static/js/2.9415929d.chunk.js.map",
     "index.html": "/simbiose/index.html",
-    "precache-manifest.a6d0cb4493aaca35555a79ff2f1134f9.js": "/simbiose/precache-manifest.a6d0cb4493aaca35555a79ff2f1134f9.js",
+    "precache-manifest.ae8d33ea979c72926aba3c664204191d.js": "/simbiose/precache-manifest.ae8d33ea979c72926aba3c664204191d.js",
     "service-worker.js": "/simbiose/service-worker.js",
-    "static/css/main.4877072e.chunk.css.map": "/simbiose/static/css/main.4877072e.chunk.css.map"
+    "static/css/main.59f551e7.chunk.css.map": "/simbiose/static/css/main.59f551e7.chunk.css.map"
   }
 }
